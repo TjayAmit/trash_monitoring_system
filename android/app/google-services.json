@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "673358810047",
+    "project_id": "basureward",
+    "storage_bucket": "basureward.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673358810047:android:7d9937b1fa5864b2622f0a",
+        "android_client_info": {
+          "package_name": "com.zambo.basureward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673358810047-kjlh245c1lkcti6jieresf1vllklp3r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zambo.basureward",
+            "certificate_hash": "8c73439b184b7d2e38e5d6f58599e854d0b86a69"
+          }
+        },
+        {
+          "client_id": "673358810047-j2devcdjgv7s8enbvglhd1o0hosob57e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoU007uYHwQe8fc9Z6Y7KOUn9H4ckESQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673358810047-j2devcdjgv7s8enbvglhd1o0hosob57e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
